@@ -1,10 +1,13 @@
-## Opa! Eu sou o Douglas Araújo
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=opa!+👋;+me+chamo+Douglas!;" />
+</h1>
 
 
 <div>
   <a href="https://github.com/douglasarj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasarj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasarj&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasarj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasarj&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
  
@@ -30,6 +33,8 @@
   <a href="https://www.linkedin.com/in/douglasarj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
 
 
 <picture>

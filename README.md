@@ -24,8 +24,6 @@
 <!--   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
 </div>
   
-  ##
- 
 <div> 
   <a href="https://instagram.com/dougls.arj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me/499349938589925395" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -35,7 +33,7 @@
 </div>
 
 
-
+![Snake animation](https://github.com/roberto-hofstetter/roberto-hofstetter/blob/output/github-contribution-grid-snake.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/douglasarj/douglasarj/output/github-contribution-grid-snake-dark.svg">

@@ -33,7 +33,7 @@
 </div>
 
 
-![Snake animation](https://github.com/roberto-hofstetter/roberto-hofstetter/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/douglasarj/douglasarj/blob/output/github-contribution-grid-snake.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/douglasarj/douglasarj/output/github-contribution-grid-snake-dark.svg">

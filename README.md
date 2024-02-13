@@ -5,12 +5,11 @@
 
 
 <div>
-  <a href="https://github.com/douglasarj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasarj&show_icons=true&theme=calm_pink&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasarj&layout=compact&langs_count=6&theme=calm_pink"/>
+<a href="https://github.com/douglasarj">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasarj&theme=slateorange&show_icons=true&hide_border=false&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasarj&theme=slateorange&show_icons=true&hide_border=false&layout=compact"/>
 </div>
  
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Douglas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <!--   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->

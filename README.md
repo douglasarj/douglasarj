@@ -3,6 +3,7 @@
 <img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
 <div align="center" >
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OI&pause=1000&color=C16A75&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+nice+to+meet+you;My+name+is+Douglas+Araujo;I+am+a+Backend+developer;Feel+free+to+get+in+touch+for+anything)](https://git.io/typing-svg)
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="40" height="40" />
 </div>
@@ -16,6 +17,9 @@
 </div>
 
 <img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
+
+
+
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Douglas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -37,6 +41,16 @@
   
 </div>
 
+
+
+
+
+<h4 align="center" style="color: #ba6771;">Thanks for Visiting! 😇</h4>
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=douglasarj&theme=material-palenight&radius=16	)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/douglasarj/douglasarj/output/github-contribution-grid-snake-dark.svg">

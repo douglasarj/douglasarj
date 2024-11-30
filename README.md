@@ -3,8 +3,7 @@
 <img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
 <div align="center" >
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OI&pause=1000&color=C16A75&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+nice+to+meet+you;My+name+is+Douglas+Araujo;I+am+a+Backend+developer;Feel+free+to+get+in+touch+for+anything)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OI&pause=1000&color=C16A75&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+nice+to+meet+you;My+name+is+Douglas+Araujo;I+am+a+Backend+developer)](https://git.io/typing-svg)
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="40" height="40" />
 </div>
 <img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
@@ -18,28 +17,50 @@
 
 <img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
 
+<h2  style="color: #ba6771;">Overview 👉 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="40" height="40" /> </h2>
 
+<div align="center" >
 
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Douglas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<!--   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
-<!--   <img align="center" alt="Douglas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
-  <img align="center" alt="Douglas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Douglas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<!--   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
-<!--   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
+[![wakatime](https://wakatime.com/badge/user/018edf37-5d6b-4875-a175-4abefadf37c5.svg)](https://wakatime.com/@018edf37-5d6b-4875-a175-4abefadf37c5)
 </div>
 
-  <br>
-  
-<div> 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Douglas Araujo and I am a Backend Developer. <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My goal is to continue learning technologies and developing new applications.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is HTML, CSS, Javascript, Java and Styled-components.<br />
+
+
+
+<h2 style="color: #ba6771;">Skills 🚀 <img
+src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png"
+alt="Exploding Head" width="40" height="40" />   </h2>
+
+<p align="center">
+  <a href="https://www.typescriptlang.org/">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+</a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap">
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" alt="React">
+  </a>
+  </p>
+<img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
+<h2 style="color: #ba6771;">Connect with me 👇 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="40" height="40" /></h2>
+
+<p align="center">
   <a href="https://instagram.com/dougls.arj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<!--  <a href="https://discord.com/channels/@me/499349938589925395" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
   <a href = "mailto:douglas.araujodev7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/douglasarj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
+<!-- <a href="https://discord.com/channels/@me/499349938589925395" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
+
+
+
+
+
   
-</div>
+
 
 
 

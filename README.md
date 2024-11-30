@@ -35,17 +35,38 @@ src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis
 alt="Exploding Head" width="40" height="40" />   </h2>
 
 <p align="center">
-  <a href="https://www.typescriptlang.org/">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-</a>
+  <a href="https://www.java.com/pt-BR/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40px" />        
+  </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="30px" />        
+  </a>
+  </a>
+  <a href="">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px" />   
+  </a>
+  </a>
+  <a href="https://css.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px" />
+  </a>
+  </a>
   <a href="https://getbootstrap.com/">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="30px" />
   </a>
   <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" alt="React">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px" />     
   </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30px" />
+  </a>
+<!--   <a href="">
+    <img src="" width="30px" />        
+  </a>
+ -->
   </p>
+  
 <img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
+
 <h2 style="color: #ba6771;">Connect with me 👇 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="40" height="40" /></h2>
 
 <p align="center">
@@ -54,16 +75,6 @@ alt="Exploding Head" width="40" height="40" />   </h2>
   <a href="https://www.linkedin.com/in/douglasarj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 <!-- <a href="https://discord.com/channels/@me/499349938589925395" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
-
-
-
-
-
-  
-
-
-
-
 
 
 <h4 align="center" style="color: #ba6771;">Thanks for Visiting! 😇</h4>

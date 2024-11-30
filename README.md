@@ -83,7 +83,7 @@ alt="Exploding Head" width="40" height="40" />   </h2>
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=douglasarj&theme=material-palenight&radius=16	)](https://github.com/douglasarj/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=douglasarj&theme=material-palenight&radius=16	)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img src="static/assets/img/line.png" width="100%" height="8px"/>
 <!-- (https://github.com/ashutosh00710/github-readme-activity-graph) -->
 

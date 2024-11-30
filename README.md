@@ -21,7 +21,7 @@
 
 <div align="center" >
 
-[![wakatime](https://wakatime.com/badge/user/018edf37-5d6b-4875-a175-4abefadf37c5.svg)](https://wakatime.com/@018edf37-5d6b-4875-a175-4abefadf37c5)
+<!-- [![wakatime](https://wakatime.com/badge/user/018edf37-5d6b-4875-a175-4abefadf37c5.svg)](https://wakatime.com/@018edf37-5d6b-4875-a175-4abefadf37c5) -->
 </div>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Douglas Araujo and I am a Backend Developer. <br />

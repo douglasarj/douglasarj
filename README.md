@@ -34,7 +34,7 @@
 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png"
 alt="Exploding Head" width="40" height="40" />   </h2>
 
-<p align="center">
+<p align="center" >
   <a href="https://www.java.com/pt-BR/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40px" />        
   </a>
@@ -68,6 +68,8 @@ alt="Exploding Head" width="40" height="40" />   </h2>
 <img src="static/assets/img/line.png" width="100%" height="8px"/>
 
 <h2 style="color: #ba6771;">Connect with me 👇 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="40" height="40" /></h2>
+
+<br>
 
 <p align="center">
   <a href="https://instagram.com/dougls.arj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

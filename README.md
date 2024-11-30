@@ -1,17 +1,21 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b5394&height=120&section=header"/>
+<img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
+<img src="https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png" style="display: block; margin: 0 auto;">
+<img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
+<div align="center" >
 
-
-
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?type=waving&color=0b5394&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=opa!+👋;+me+chamo+Douglas!;" />
-</h1>
-
-
-<div>
-<a href="https://github.com/douglasarj">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasarj&theme=slateorange&show_icons=true&hide_border=false&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasarj&theme=slateorange&show_icons=true&hide_border=false&layout=compact"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OI&pause=1000&color=C16A75&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+nice+to+meet+you;My+name+is+Douglas+Araujo;I+am+a+Backend+developer;Feel+free+to+get+in+touch+for+anything)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="40" height="40" />
 </div>
+<img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
+<div align="center" >
+  <a href="https://github.com/douglasarj">
+    <img   height="100%" src="https://github-readme-stats.vercel.app/api?username=douglasarj&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&border_radius=10"/>
+  </a>
+  <a href="https://github.com/douglasarj"></a>
+  <img   height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasarj&layout=compact&langs_count=7&theme=catppuccin_mocha&border_radius=10"/>
+</div>
+
+<img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Douglas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
